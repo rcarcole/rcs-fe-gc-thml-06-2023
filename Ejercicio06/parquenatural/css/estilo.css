@@ -1,0 +1,19 @@
+body{
+    font-family: 'Lucida Sans Unicode';
+}
+
+h1{
+    text-align: center;
+}
+
+.verde{
+    color: green;
+}
+
+.verde-claro{
+    color: greenyellow;
+}
+
+.naranja{
+    color: orange;
+}
