@@ -1,0 +1,33 @@
+body{
+    font-family: 'Lucida Sans Unicode';
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+nav{
+    float: left;
+    width: 200px;
+}
+
+h1{
+    text-align: center;
+}
+
+.verde{
+    color: green;
+}
+
+.verde-claro{
+    color: greenyellow;
+}
+
+.naranja{
+    color: orange;
+}
+
+.bordered{
+    border: 1px solid black;
+    padding: 10px;
+    margin-left: 220px;
+}
+
