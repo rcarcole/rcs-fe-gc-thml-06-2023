@@ -1,6 +1,8 @@
 # rcs-fe-gc-html-06-2023
 
 1:
+https://rcarcole.github.io/rcs-fe-gc-thml-06-2023/Ejercicio01
+
 https://github.com/rcarcole/rcs-fe-gc-thml-06-2023/tree/main/Ejercicio01
 
 2:
